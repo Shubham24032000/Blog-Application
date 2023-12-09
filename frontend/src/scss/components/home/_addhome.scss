@@ -1,0 +1,11 @@
+.add-home{
+    display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 100vh;
+      margin-left: 0;
+      .add-article{
+        margin-left: 0px;
+        margin-bottom: 25px;
+      }
+}
